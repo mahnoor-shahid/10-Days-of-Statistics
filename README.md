@@ -1,6 +1,6 @@
 # 10 Days of Statistics
 
-This repository consists of solutions to problems solved in HackerRank tutorials exercises for 10 Days of Statistics. Each problem is solved in R, Python, Javascript and C++.
+This repository consists of solutions to problems solved in HackerRank tutorial exercises for 10 Days of Statistics. Each problem is solved in R, Python, Javascript and C++.
 
 # Purpose
 
@@ -21,7 +21,7 @@ Files can be opened using any tool that supports the .py, .r .c and .js format. 
 
 - 
  
- # Created By
+ # Submitted By
  **Mahnoor Shahid** - Initial work
  - Linkedin Profile - https://www.linkedin.com/in/mahnoor-v20399/
 
